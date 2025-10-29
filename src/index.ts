@@ -9,7 +9,6 @@ export default defineTransformer({
 
 		return {
 			...parsed,
-			body: parsed,
 			id,
 		};
 	},
