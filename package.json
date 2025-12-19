@@ -1,7 +1,7 @@
 {
 	"name": "nuxt-content-transformer-toml",
 	"version": "0.2.0",
-	"packageManager": "pnpm@10.26.0",
+	"packageManager": "pnpm@10.26.1",
 	"author": "Ray <i@mk1.io> (@so1ve)",
 	"type": "module",
 	"description": "A TOML transformer for Nuxt Content",
@@ -61,7 +61,7 @@
 		"@so1ve/eslint-config": "^3.11.2",
 		"@so1ve/prettier-config": "^3.11.2",
 		"@types/node": "^24.9.2",
-		"@typescript/native-preview": "7.0.0-dev.20251217.1",
+		"@typescript/native-preview": "7.0.0-dev.20251218.3",
 		"bumpp": "^10.3.1",
 		"eslint": "^9.38.0",
 		"prettier": "^3.6.2",
